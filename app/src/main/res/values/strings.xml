@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ESIEA 34</string>
+    <string name="hello_first_fragment">0</string>
+    <string name="random_button_text">Random</string>
+    <string name="toast_button_text">Toast</string>
+    <string name="count_button_text">Count</string>
+
+</resources>
