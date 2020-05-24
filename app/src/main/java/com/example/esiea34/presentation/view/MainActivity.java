@@ -1,16 +1,13 @@
-package com.example.esiea34;
+package com.example.esiea34.presentation.view;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-import java.util.ArrayList;
-import java.util.List;
+import com.example.esiea34.R;
 
 public class MainActivity extends AppCompatActivity {
 

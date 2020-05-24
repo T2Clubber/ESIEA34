@@ -1,6 +1,4 @@
-package com.example.esiea34;
-
-import java.util.List;
+package com.example.esiea34.presentation.model;
 
 public class Pokemon {
 

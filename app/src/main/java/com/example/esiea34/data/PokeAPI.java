@@ -1,6 +1,6 @@
-package com.example.esiea34;
+package com.example.esiea34.data;
 
-import java.util.List;
+import com.example.esiea34.presentation.model.RestPokemonResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

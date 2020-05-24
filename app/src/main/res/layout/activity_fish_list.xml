@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimaryDark"
-    tools:context=".fish_list">
+    tools:context=".presentation.view.fish_list">
 
    <androidx.recyclerview.widget.RecyclerView
        android:id="@+id/fishes"
