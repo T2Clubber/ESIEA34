@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         play.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent otherActivity = new Intent(getApplicationContext(), fish_list.class);
+                Intent otherActivity = new Intent(getApplicationContext(), ListActivity.class);
                 startActivity(otherActivity);
                 finish();
             }
