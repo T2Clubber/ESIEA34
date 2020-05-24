@@ -18,6 +18,8 @@ Liste des pokémons.
 
 • Affichage du détail d'un Pokemon
 
-# Menu de démarrage (screenshoot)
+# Application (screenshoots)
 
-![img](https://github.com/T2Clubber/ESIEA34/blob/master/Capture%20d%E2%80%99e%CC%81cran%202020-05-24%20a%CC%80%2020.56.19.png)
+• Menu de démarrage
+
+![img](https://github.com/T2Clubber/ESIEA34/blob/master/imgREAD_ME/Menu.png)
