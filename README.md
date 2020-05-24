@@ -20,6 +20,10 @@ Liste des pokémons.
 
 # Application (screenshoots)
 
+• Icon de l'application
+
+![img](https://github.com/T2Clubber/ESIEA34/blob/master/imgREAD_ME/icon.JPG)
+
 • Menu de démarrage
 
 ![img](https://github.com/T2Clubber/ESIEA34/blob/master/imgREAD_ME/Menu.png)
