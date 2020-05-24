@@ -16,6 +16,7 @@
 
     <TextView
         android:id="@+id/secondLine"
+        android:textColor="@color/textcolor"
         android:layout_width="fill_parent"
         android:layout_height="26dip"
         android:layout_alignParentBottom="true"
@@ -28,6 +29,7 @@
 
     <TextView
         android:id="@+id/firstLine"
+        android:textColor="@color/textcolor"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_above="@id/secondLine"
