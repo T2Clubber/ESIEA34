@@ -18,9 +18,9 @@ Liste des pokémons.
 
 • Affichage du détail d'un Pokemon
 
-# Application (screenshoots)
+# Application (screenshots)
 
-• Icon de l'application
+• Icône de l'application
 
 ![img](https://github.com/T2Clubber/ESIEA34/blob/master/imgREAD_ME/icon.JPG)
 
